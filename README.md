@@ -1,3 +1,7 @@
+## This fork defaults certain options in the script so it'll run unattended.  
+These options target the needs of a VPN for Curtain Wall development.  
+Search for "# UNATTENDED" in the script to see the changes.  
+
 **New: [wireguard-install](https://github.com/Nyr/wireguard-install) is also available.**
 
 ## openvpn-install
